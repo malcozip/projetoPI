@@ -1,5 +1,5 @@
 # Projeto Integrador
-Cada branch do repositório está devidamente separada para cada integrante e suas funções.
+Cada branch do repositório está devidamente separada para cada integrante e suas funções, junto a seus respectivos repositorios, existe um exemplar do arquivo da documentação
 
 Branch - design está designada a comportar os ícones, informações de cores, etc;
 
